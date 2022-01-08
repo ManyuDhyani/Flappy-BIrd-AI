@@ -12,8 +12,7 @@ and help it to take right decision.
 
 Neuroevolution is a form artificial intelligence that uses concept of evolution and genetic algorithm. Inspired from biological evolution, evolutionary algorithm (EA) has 
 mechanisms like reproduction, mutation, selection and recombination. The new generation mutation can be neutral, beneficial or  harmful. Also a new species will replace 
-current species, if all the population of current species gets terminated This paper, uses NeuroEvolution of Augmenting Topologies (NEAT), a python library, which use  
-evolutionary algorithm to form Artificial Neural Networks (ANN).
+current species, if all the population of current species gets terminated This paper, uses NeuroEvolution of Augmenting Topologies (NEAT), a python library, which use evolutionary algorithm to form Artificial Neural Networks (ANN).
 
 ![](imgs/Algorithm.png) 
 
